@@ -14,17 +14,18 @@ Below are some screenshots.
 
 (**original state**)
 
-![pic1](/Users/dimon/Desktop/opencv_water-resource/pictures/pic1.png)
+![pic1](pictures/pic1.png)
 
 
 
-(**water level decreases**)![pic2](/Users/dimon/Desktop/opencv_water-resource/pictures/pic2.png)
+(**water level decreases**)
+![pic2](pictures/pic2.png)
 
-​                                                                 
+
 
 (**death state**)
 
-![pic3](/Users/dimon/Desktop/opencv_water-resource/pictures/pic3.png)
+![pic3](pictures/pic3.png)
 
 
 
